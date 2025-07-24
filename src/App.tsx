@@ -233,7 +233,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <h1 className="text-2xl font-bold text-blue-900">DivTrek1</h1>
+              <h1 className="text-2xl font-bold text-blue-900">DivTrek</h1>
               <span className="ml-2 text-sm text-gray-600 hidden sm:inline">Premium Car Booking</span>
             </div>
             
@@ -282,7 +282,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-5xl font-bold mb-6">Premium Car Booking Experience</h2>
           <p className="text-xl mb-8 text-blue-200 max-w-3xl mx-auto">
-            Discover luxury and performance with our curated selection of premium vehicles. just a sample text 
+            Discover luxury and performance with our curated selection of premium vehicles.
             Professional service, competitive rates, and unforgettable driving experiences.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

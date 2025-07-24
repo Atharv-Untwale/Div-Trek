@@ -282,7 +282,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-5xl font-bold mb-6">Premium Car Booking Experience</h2>
           <p className="text-xl mb-8 text-blue-200 max-w-3xl mx-auto">
-            Discover luxury and performance with our curated selection of premium vehicles. 
+            Discover luxury and performance with our curated selection of premium vehicles. just a sample text 
             Professional service, competitive rates, and unforgettable driving experiences.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
